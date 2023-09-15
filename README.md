@@ -1,5 +1,6 @@
 # Capstone-project-1
 DevOps capstone project-1:
+
 Project Overview:
 The project outline is to create the CI/CD Pipeline by using DevOps tools. The task should be performed according to below requirements.
 1. Install the necessary software on the machines using a configuration
