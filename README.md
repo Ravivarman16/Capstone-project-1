@@ -1,7 +1,7 @@
 # Capstone-project-1
-DevOps capstone project-1:
+**DevOps capstone project-1:**
 
-Project Overview:
+**Project Overview:**
 The project outline is to create the CI/CD Pipeline by using DevOps tools. The task should be performed according to below requirements.
 1. Install the necessary software on the machines using a configuration
 management tool
@@ -21,9 +21,15 @@ jobs:
 •	Job2: test
 •	Job3: prod
 
-Solution:
+**Solution:**
 
-Project outline:
+**Project outline:**
 ![image](https://github.com/Ravivarman16/Capstone-project-1/assets/129171351/23ae5db6-f6bb-4b5c-b652-c2c7b9dee62d)
 
+
+The solution to the project is uploaded on** DevOps Capstone-1.pdf**
+
+If you got struck anywhere kindly contact me on LinkedIn or through mail.
+
+#Happylearning!!
 
