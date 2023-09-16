@@ -11,5 +11,3 @@ EXPOSE 80
 
 ENTRYPOINT ["apache2ctl"]
 CMD ["-DFOREGROUND"]
-
-
