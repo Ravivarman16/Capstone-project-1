@@ -104,6 +104,7 @@ resource "aws_instance" "server" {
   subnet_id              = aws_subnet.project1_subnet.id
   key_name               = var.keypair
   vpc_security_group_ids = [aws_security_group.project1_sc.id]
+  associate_public_ip_address = true
   tags = {
     Name = "Server - ${count.index}"
   }
